@@ -8,19 +8,19 @@ def breakfast (food= "frosted flakes")
   "Morning is the best time for #{food}!"
 end
 
-breakfast
+puts breakfast
 
 def lunch (food = "grilled cheese")
   "Lunch is the best time for #{food}!"
 end
 
-lunch
+puts lunch
 
 def dinner (food = "salmon")
   "Dinner is the best time for #{food}!"
 end
 
-dinner
+ puts dinner
 
 
 
