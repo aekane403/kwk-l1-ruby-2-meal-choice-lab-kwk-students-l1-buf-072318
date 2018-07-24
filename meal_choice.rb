@@ -11,7 +11,17 @@ end
 breakfast
 
 def lunch (food = "grilled cheese")
-  
+  "Lunch is the best time for #{food}!"
+end
+
+lunch
+
+def dinner (food = "salmon")
+  "Dinner is the best time for #{food}!"
+end
+
+dinner
+
 
 
 
